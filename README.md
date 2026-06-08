@@ -13,4 +13,4 @@ In this project I have cleaned, transformed, and analyzed sales data to build an
 Working on this project helped me improve my skills in data cleaning, data transformation, and data modeling. I also learned how to use Power Query and Power Pivot to turn raw data into meaningful insights and build interactive dashboards for decision-making.
 
 ##Dashboard 
-![Dashboard](Sales Project.jpg)
+![Dashboard](Sales_Project.jpg)
